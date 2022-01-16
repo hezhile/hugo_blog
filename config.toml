@@ -1,4 +1,47 @@
 baseURL = "http://blog.vuntun.com/"
-languageCode = "en-us"
-title = "gilot's blog"
-theme = "ananke"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn"
+enableEmoji = true
+hasCJKLanguage = true
+title = "g博客"
+theme = "mainroad"
+paginate = "5" # Number of posts per page
+
+[Params]
+  description = "gilot's blog" # Site description. Used in meta description
+  copyright = "gilot" # Footer copyright holder, otherwise will use site title
+  readmore = true
+  dateformat = "2006-01-02"
+  schema = false # Enable Schema
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  toc = true
+
+[Params.Logo]
+    subtitle = "分享思想"
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  widgets = ["search", "recent", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "文章"
+        url = "/posts/"
+        weight = 10
+    [[menu.main]]
+        identifier = "tags"
+        name = "标签"
+        url = "/tags/"
+        weight = 20
+    [[menu.main]]
+        identifier = "about"
+        name = "关于"
+        url = "/about/"
+        weight = 40
