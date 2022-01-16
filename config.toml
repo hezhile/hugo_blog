@@ -1,10 +1,10 @@
 baseURL = "http://blog.vuntun.com/"
 languageCode = "zh-cn"
-DefaultContentLanguage = "zh-cn"
-enableEmoji = true
-hasCJKLanguage = true
+#DefaultContentLanguage = "zh-cn"
+#enableEmoji = true
+#hasCJKLanguage = true
 title = "g博客"
-theme = "Mainroad"
+theme = "mainroad"
 paginate = "5" # Number of posts per page
 
 [Params]
