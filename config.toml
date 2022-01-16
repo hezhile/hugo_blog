@@ -15,6 +15,7 @@ paginate = "5" # Number of posts per page
   schema = false # Enable Schema
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   toc = true
+  postSections = ["post"]
 
 [Params.Logo]
     subtitle = "分享思想"
