@@ -5,9 +5,6 @@ categories: [finance]
 draft: false
 tags:
   - "钱"
-widgets:
-  - "recent"
-  - "taglist"
 ---
 
 简单来看 我们能够支配的钱 大概都是这样的流程：工资进入银行卡->存在活期或者其它地方->大部分花掉，小部分存起来。
