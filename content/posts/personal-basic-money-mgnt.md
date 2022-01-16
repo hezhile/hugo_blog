@@ -1,7 +1,6 @@
 ---
 title: '个人理财的基本操作'
 date: "2022-01-15"
-categories: [finance]
 draft: false
 tags:
   - "钱"
