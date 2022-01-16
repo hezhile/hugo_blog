@@ -5,7 +5,6 @@ draft: false
 tags:
   - "极简"
   - "反消费主义"
-sidebar: "right"
 widgets:
   - "recent"
   - "taglist"

@@ -5,7 +5,6 @@ categories: [finance]
 draft: false
 tags:
   - "钱"
-sidebar: "right"
 widgets:
   - "recent"
   - "taglist"
