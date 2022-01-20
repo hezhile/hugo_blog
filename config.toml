@@ -1,8 +1,8 @@
 baseURL = "http://blog.vuntun.com/"
 languageCode = "zh-cn"
-#DefaultContentLanguage = "zh-cn"
-#enableEmoji = true
-#hasCJKLanguage = true
+DefaultContentLanguage = "zh-cn"
+enableEmoji = true
+hasCJKLanguage = true
 title = "g博客"
 theme = "mainroad"
 paginate = "5" # Number of posts per page
@@ -38,4 +38,4 @@ paginate = "5" # Number of posts per page
         identifier = "about"
         name = "关于"
         url = "/about/"
-        weight = 40
+        weight = 30
