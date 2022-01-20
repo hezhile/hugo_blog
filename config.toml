@@ -7,6 +7,7 @@ title = "g博客"
 theme = "ananke"
 paginate = "5" # Number of posts per page
 
+
 [Params]
   description = "gilot's blog" # Site description. Used in meta description
   copyright = "gilot" # Footer copyright holder, otherwise will use site title
@@ -15,6 +16,7 @@ paginate = "5" # Number of posts per page
   schema = false # Enable Schema
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   toc = true
+  background_color_class = "bg-navy"
 
 [Params.Logo]
     subtitle = "分享思想"
