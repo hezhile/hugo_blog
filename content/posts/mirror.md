@@ -7,6 +7,7 @@ tags:
 
 在微信群看到一篇文章：
 《突发：英媒宣称，研究证实新冠病毒是美国公司制造》
+
 https://view.inews.qq.com/a/20220323A0DA9Y00?uid=41877287&shareto=wx&openid=o04IBAKsGKWWLlpfkrpTJS-P1PEQ&key=&version=1800123a&devicetype=iOS15.3.1&wuid=oDdoCt_i1C5WNwhDkh6Dn9Sx7mCE
 
 发布在腾讯新闻，作者是环球网，好家伙，官方味道十足，难道真的是又有什么大新闻？
