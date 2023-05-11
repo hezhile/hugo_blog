@@ -1,4 +1,4 @@
-baseURL = "http://blog.vuntun.com/"
+baseURL = "http://www.vuntun.com/"
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
 enableEmoji = true
