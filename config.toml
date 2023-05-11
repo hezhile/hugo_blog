@@ -6,7 +6,7 @@ hasCJKLanguage = true
 title = "g博客"
 theme = "ananke"
 paginate = "5" # Number of posts per page
-
+googleAnalytics = 'G-B89BP5F70H'
 
 [Params]
   description = "gilot's blog" # Site description. Used in meta description
@@ -17,7 +17,7 @@ paginate = "5" # Number of posts per page
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   toc = true
   background_color_class = "bg-navy"
-  googleAnalytics = 'G-B89BP5F70H'
+  
 
 [Params.Logo]
     subtitle = "分享思想"
