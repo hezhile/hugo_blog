@@ -45,7 +45,7 @@
       {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
   </head>
-{{ template "_internal/google_analytics.html" . }}
+{{ partial "analytics-gtag.html" . }}
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
