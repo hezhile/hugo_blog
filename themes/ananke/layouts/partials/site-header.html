@@ -1,4 +1,5 @@
 {{ $featured_image := .Param "featured_image"}}
+{{ template "_internal/google_analytics.html" . }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
