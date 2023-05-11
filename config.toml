@@ -6,6 +6,7 @@ hasCJKLanguage = true
 title = "g博客"
 theme = "ananke"
 paginate = "5" # Number of posts per page
+googleAnalytics = 'G-B89BP5F70H'
 
 
 [Params]
